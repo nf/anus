@@ -1,0 +1,3 @@
+```
+$ go run anus.io
+```
